@@ -11,3 +11,7 @@ results/*
 ## LibreOffice lock files
 
 .~lock*
+
+## draw.io temporal files
+
+*.bkp
